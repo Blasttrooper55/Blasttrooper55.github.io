@@ -6,7 +6,9 @@ img{
 div{
       height: 75px;
       background-color: #3a5795;
-}
+      border-radius:10px;
+      
+}     
 a{
       text-align:center;
       display: block;
