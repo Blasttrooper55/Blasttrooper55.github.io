@@ -1,6 +1,7 @@
 img{
       width:500px;
       border: 10px solid #cc0000;
+      text-align:center;
 }
 div{
       height: 75px;
