@@ -1,7 +1,7 @@
 img{
       width:500px;
       border: 10px solid #cc0000;
-      text-align:center;
+      
 }
 div{
       height: 75px;
@@ -10,7 +10,8 @@ div{
       
 }     
 a{
-      text-align:center;
+      </*text-align:center;*/
       display: block;
+      margin:auto;
       
 }
